@@ -1,0 +1,20 @@
+{
+    "name": "FabricScriptsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ee0c73686b4f3e438d1660efb705145"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
