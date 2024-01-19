@@ -1,3 +1,3 @@
-# SoundMaker Unity
+# Fabric 2.0 Unity Package
 
-This repository contains the Unity package for the SoundMaker player
+This repository contains the Fabric 2.0 Unity package
